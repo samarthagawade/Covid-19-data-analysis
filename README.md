@@ -110,5 +110,3 @@ Key takeaways include:
 - **Google Colab**
 
 ---
-
- for educational and research purposes.
